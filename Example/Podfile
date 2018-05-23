@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Gilgamesh_Example' do
+  pod 'Gilgamesh', :path => '../'
+
+  target 'Gilgamesh_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
