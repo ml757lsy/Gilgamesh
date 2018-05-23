@@ -1,0 +1,16 @@
+PODS:
+  - Gilgamesh (0.1.0)
+
+DEPENDENCIES:
+  - Gilgamesh (from `../`)
+
+EXTERNAL SOURCES:
+  Gilgamesh:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Gilgamesh: edb3d9f5522ffb71a0a750540514556f3ec81b87
+
+PODFILE CHECKSUM: c82a237a33b504725558150e31ef8fd74bdcb89e
+
+COCOAPODS: 1.4.0
