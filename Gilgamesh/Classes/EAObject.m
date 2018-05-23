@@ -9,4 +9,8 @@
 
 @implementation EAObject
 
+- (void)Enumaelish {
+    NSLog(@"Enuma elish!");
+}
+
 @end
