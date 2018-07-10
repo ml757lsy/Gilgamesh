@@ -1,0 +1,4 @@
+/* Localized versions of Info.plist keys */
+
+"language"  = "中文";
+"test"      = "测试";
