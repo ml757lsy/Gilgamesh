@@ -1,9 +1,9 @@
 {
   "name": "Gilgamesh",
-  "version": "0.1.0",
-  "summary": "A short description of Gilgamesh.",
+  "version": "0.1.1",
+  "summary": "Gilgamesh.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/LiShiyuan/Gilgamesh",
+  "homepage": "https://github.com/ml757lsy/Gilgamesh",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,8 +12,8 @@
     "LiShiyuan": "ml757lsy@126.com"
   },
   "source": {
-    "git": "https://github.com/LiShiyuan/Gilgamesh.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/ml757lsy/Gilgamesh.git",
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "8.0"

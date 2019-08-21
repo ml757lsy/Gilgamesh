@@ -9,4 +9,6 @@
 //
 @interface EAObject : NSObject
 
+- (void)Enumaelish;
+
 @end

@@ -1,5 +1,5 @@
 PODS:
-  - Gilgamesh (0.1.0)
+  - Gilgamesh (0.1.1)
 
 DEPENDENCIES:
   - Gilgamesh (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  Gilgamesh: edb3d9f5522ffb71a0a750540514556f3ec81b87
+  Gilgamesh: 5555f039528ec8f2290433705c2b97979eb4398a
 
 PODFILE CHECKSUM: c82a237a33b504725558150e31ef8fd74bdcb89e
 
